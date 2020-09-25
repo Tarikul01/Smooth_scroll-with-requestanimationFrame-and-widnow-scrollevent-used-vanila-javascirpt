@@ -76,11 +76,11 @@ var bolean=true;
 function navbarTogglerClick(){
 	
 	if(!bolean){
-		navbarBrand.style.height="10vh";
+		navbarBrand.style.height="55px";
          bolean=true;
 	}
 	else{
-		navbarBrand.style.height="30vh";
+		navbarBrand.style.height="170px";
 		bolean=false;
 	}
 }
