@@ -15,7 +15,7 @@
     overflow: hidden;
     /*align-items: center;*/
     position: fixed;
-    background-color: red;
+    background-color: black;
     width: 100vw;
     opacity: .7;
     transition: .5s;
